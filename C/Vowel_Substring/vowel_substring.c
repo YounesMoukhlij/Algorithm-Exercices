@@ -6,7 +6,7 @@
 /*   By: youmoukh <youmoukh@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/11 16:10:37 by youmoukh          #+#    #+#             */
-/*   Updated: 2024/06/11 16:45:53 by youmoukh         ###   ########.fr       */
+/*   Updated: 2024/06/11 16:51:36 by youmoukh         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -52,6 +52,10 @@ char	*vowel_substring(char *s, int num)
 			}
 		}
 		i++;
+
+
+
+		
 	}
 	// str = malloc(num + 0x1);
 	// if (!str)
